@@ -23,7 +23,7 @@
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
-			<Font size="25.0" />
+			<Font size="30.0" />
 		</font>
 	</Label>
 </VBox>
