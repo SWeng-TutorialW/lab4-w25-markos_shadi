@@ -17,7 +17,7 @@
 		<font>
 			<Font size="31.0" />
 		</font>
-	</Label>f
+	</Label>
 
 
 	<Label alignment="CENTER"
@@ -28,9 +28,7 @@
 		<font>
 			<Font size="31.0" />
 		</font>
-	</Label>f
-
-
+	</Label>
 
 
 	<Label alignment="CENTER"
